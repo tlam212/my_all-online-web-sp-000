@@ -9,8 +9,7 @@ def my_all?(collection)
   end
   
   if 
-    return_values.include?
-    (false)
+    return_values.include?(false)
       false 
     else 
       true 
